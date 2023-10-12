@@ -1,2 +1,2 @@
 # SimpleDrumKit
-A simple drum kit page
+A simple drum kit page built with HTML, CSS, Javascript
